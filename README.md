@@ -1,3 +1,3 @@
-#PROJETO NOTIFY  REACT
--Jessica Franco
--Lucas Miguel
+## PROJETO NOTIFY  REACT
+- Jessica Franco
+- Lucas Miguel
